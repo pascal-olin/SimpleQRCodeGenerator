@@ -1,0 +1,12 @@
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\bin\Debug\SimpleQRCodeGenerator.exe.config
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\bin\Debug\SimpleQRCodeGenerator.exe
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\bin\Debug\SimpleQRCodeGenerator.pdb
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\bin\Debug\System.Drawing.Common.dll
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.SercoQRCodeGenerator.resources
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.Properties.Resources.resources
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.csproj.CopyComplete
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.exe
+C:\Users\po\Source\Repos\SimpleQRCodeGenerator\SimpleQRCodeGenerator\obj\Debug\SimpleQRCodeGenerator.pdb
